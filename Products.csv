@@ -1,0 +1,42 @@
+Product ID,Name,Unit Price,Stock Quantity,Category,Demand Trend,Reorder Point
+PROD9114,D-Biotin,15.45,6457,Protein,Trend 5,210
+PROD2441,D-Calcium Pantothenate (VB5),485.91,731,Protein,Trend 4,360
+PROD8072,Folic Acid,386.39,3760,Vitamin,Trend 4,69
+PROD9876,Inositol,75.39,1596,Protein,Trend 1,386
+PROD5920,Vitamin B1 Mono & Hcl,185.19,162,Specialty,Trend 4,182
+PROD8097,Vitamin B2,300.42,2735,Specialty,Trend 4,185
+PROD2814,Vitamin B6,134.04,5320,Specialty,Trend 1,402
+PROD4459,Vitamin B12,488.98,6966,Protein,Trend 4,288
+PROD1841,"Vitamin C,Na,Ca,DC",156.64,2872,Vitamin,Trend 5,183
+PROD3871,Vitamin D3 Powder & Oil,436.75,8794,Specialty,Trend 3,442
+PROD3548,"dl-alpha-tocopherol acetate (98%, oil )",133.11,8651,Protein,Trend 3,309
+PROD5220,dl-alpha-tocopherol,214.07,4122,Specialty,Trend 4,318
+PROD5277,"d-alpha tocopherol (1000IU,1300IU,1490IU)",432.88,8491,Specialty,Trend 2,426
+PROD4517,"mixed tocopherols 30% Powder, 70% Oil",260.87,437,Vitamin,Trend 1,152
+PROD8477,succinate 1185 & 1210,44.77,7585,Protein,Trend 2,149
+PROD6314,CWS 50,335.38,2859,Specialty,Trend 2,345
+PROD5367,Vitamin K2,410.29,6396,Vitamin,Trend 3,114
+PROD8680,Brown Rice Protein 80%,368.33,1446,Protein,Trend 4,256
+PROD8973,Chickpea Protein 80%,478.99,1545,Specialty,Trend 2,428
+PROD6166,Fava Bean Protein 90%,137.98,1464,Specialty,Trend 1,205
+PROD3448,Mung Bean Protein 80&85,140.02,7448,Protein,Trend 2,433
+PROD9030,Pea Protein 80%-85%,169.1,7809,Protein,Trend 4,199
+PROD8090,Pumpkin Seed Protein 60%,288.42,8919,Protein,Trend 3,315
+PROD8493,Soybean Protein,56.25,4460,Protein,Trend 5,249
+PROD4221,Sunflower Seed Protein 50%,215.03,9926,Vitamin,Trend 1,66
+PROD6108,Agmatine Sulfate,385.6,3678,Specialty,Trend 1,270
+PROD4692,Acetyl L-Carnitine Hcl,309.61,7618,Protein,Trend 3,391
+PROD5081,"Alpha GPC 50% & 99% powder, 85% liquid",186.58,7158,Protein,Trend 5,404
+PROD3454,Berberine Hcl,14.11,918,Protein,Trend 1,426
+PROD7640,"BHB Salts ( Mg,K,Ca,Na )",382.59,1004,Vitamin,Trend 2,444
+PROD1609,"Creatine, Mono./ Anhy.",380.52,6288,Protein,Trend 5,213
+PROD8672,D-Glucuronolactone,384.48,3087,Specialty,Trend 3,440
+PROD1432,DHEA,329.27,4709,Vitamin,Trend 5,489
+PROD1571,"Glucosamine 2Kcl,Hcl",365.32,4981,Specialty,Trend 3,440
+PROD8347,L-Glutathione Reduced,87.24,3162,Protein,Trend 3,88
+PROD5614,MCT 70% Powder,78.33,5635,Vitamin,Trend 5,131
+PROD9612,Melatonin,270.27,7211,Vitamin,Trend 3,248
+PROD4860,MSM,144.92,6170,Vitamin,Trend 1,470
+PROD5992,Quercetin Dihydrate/Anhydrous,346.16,9286,Protein,Trend 5,112
+PROD5166,Sodium Hyaluronate (Hyaluronic Acid),470.4,7038,Vitamin,Trend 2,192
+PROD3628,"Xanthan Gum 80mesh, 200mesh",151.89,9320,Specialty,Trend 5,328
